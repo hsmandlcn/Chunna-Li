@@ -1,4 +1,4 @@
-# Hi there, I'm [Chunna Li] 👋
+# Hi there, I'm Chunna Li 👋
 
 ### 🎓 About Me
 - 📝 Working on a project about **Knowledge Boundary Control** for educational AI.
